@@ -4,14 +4,12 @@
     width="300"
 />
 </p>
+"BRASIL DE OURO - HISTÓRIAS DE BRASILEIROS QUE CONQUISTARAM O MUNDO"
 
 
 
-<div align="center">
-    <audio src="Podcast_editado.mp3" controls title="Podcast editado"></audio>
-</div>
 
-# Projeto Podcast Gerado por I.A.s
+# "BRASIL DE OURO - HISTÓRIAS DE BRASILEIROS QUE CONQUISTARAM O MUNDO"
  
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
